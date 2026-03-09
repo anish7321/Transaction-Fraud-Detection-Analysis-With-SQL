@@ -21,6 +21,8 @@ This project uses the Online Payments Fraud Detection Dataset available on Kaggl
 
 Dataset Link
 https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+Tableau Link
+https://public.tableau.com/app/profile/anish.kumar5570/viz/onlinepaymentfrauddetectiondashboard/Dashboard1?publish=yes
 
 Due to GitHub file size limitations, the dataset is not uploaded to this repository. You can download it directly from the Kaggle link above.
 
